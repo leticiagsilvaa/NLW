@@ -16,7 +16,6 @@ body.blue {
     --card-color-primary: #338AF3;
     --card-title-border-color: #338AF3;
     --card-bg-color: #202024;
-    --button-bg-color: #202024;
     --bg: url(./assets/bg-blue.svg);
 }
 
@@ -24,7 +23,6 @@ body.green {
     --card-color-primary: #047C3F;
     --card-title-border-color: #047C3F;
     --card-bg-color: #1a1f1b;
-    --button-bg-color: #1a1f1b;
     --bg: url(./assets/bg-green.svg);
 }
 
@@ -32,7 +30,6 @@ body.red {
     --card-color-primary: #7C0404;
     --card-title-border-color: #7C0404;
     --card-bg-color: #251d1d;
-    --button-bg-color: #251d1d;
     --bg: url(./assets/bg-red.svg);
 }
 
